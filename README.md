@@ -4,6 +4,7 @@ CookLab is a web application for discovering, sharing, and exploring recipes. Wh
 
 ## Features
 
+- **Responsive Design**: The application is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes, including mobile devices.
 - **User Authentication**: Sign up and log in to your CookLab account to access personalized features.
 - **Favorites**: Save your favorite recipes for easy access later.
 - **Recipe Discovery**: Browse a vast collection of recipes, filter by category, cuisine, dietary restrictions, and more.
