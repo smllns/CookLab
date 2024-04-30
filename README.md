@@ -26,3 +26,10 @@ CookLab is a web application for discovering, sharing, and exploring recipes. Wh
 
 Spoonacular Database: A comprehensive food database and recipe API used for retrieving recipe information and data.
 
+ ## Author
+
+CookLab was created with care and dedication by Mariia Smolianskaia.
+
+Feel free to reach out to the author with any questions or feedback via email: marysmoly@gmail.com
+
+
